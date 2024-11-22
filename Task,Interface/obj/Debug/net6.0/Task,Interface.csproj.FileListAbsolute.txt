@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Task,Interface\Task,Interface\bin\Debug\net6.0\Task,Interface.exe
+C:\Users\user\source\repos\Task,Interface\Task,Interface\bin\Debug\net6.0\Task,Interface.deps.json
+C:\Users\user\source\repos\Task,Interface\Task,Interface\bin\Debug\net6.0\Task,Interface.runtimeconfig.json
+C:\Users\user\source\repos\Task,Interface\Task,Interface\bin\Debug\net6.0\Task,Interface.dll
+C:\Users\user\source\repos\Task,Interface\Task,Interface\bin\Debug\net6.0\Task,Interface.pdb
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.AssemblyInfo.cs
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.dll
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\refint\Task,Interface.dll
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.pdb
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\Task,Interface.genruntimeconfig.cache
+C:\Users\user\source\repos\Task,Interface\Task,Interface\obj\Debug\net6.0\ref\Task,Interface.dll
